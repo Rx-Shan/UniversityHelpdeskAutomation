@@ -1,0 +1,13 @@
+pypdf
+streamlit
+openai
+crewai
+crewai-tools
+pyngrok
+twilio
+tiktoken
+chromadb
+langchain
+langchain-community
+langchain-openai
+pandas

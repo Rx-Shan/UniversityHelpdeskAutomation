@@ -1,0 +1,5 @@
+Name,Phone Number,DOB,Aadhar No.,Rank,DomicileValidity,12 percentage,Document verified,Eligible Streams,Final Stream,Loan Eligibility
+Michael Das,9489734612,26/08/2002,5162 4576 5168,27250,Approved,48.0,yes,No,No,Not Checked
+Adam Bose,9330284636,06/02/2002,8234 5678 9012,1000,Approved,96.0,yes,"CSE, IT, ECE, EE, ME",CSE,Yes
+Eve Ray,8956347812,07/08/2004,2157 2347 2342,4250,Not Approved,90.0,no,No,No,Not Checked
+John Roy,8240075626,16/07/2004,6987 8714 7291,7655,Approved,93.0,yes,"ECE, EE, ME",,Not Checked
