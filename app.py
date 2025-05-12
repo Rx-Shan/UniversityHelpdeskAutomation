@@ -15,7 +15,7 @@ from crewai import Agent, Process, Task, Crew
 OPENAI_API_KEY = "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"
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
-# Load and clean PDF
+# Load and clean PDF file
 @st.cache_resource
 def load_and_process_pdf(file_path):
     loader = PyPDFLoader(file_path)
