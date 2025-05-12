@@ -12,7 +12,7 @@ from langchain.chains import RetrievalQA
 from crewai import Agent, Process, Task, Crew
 
 # Set up OpenAI API key
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 # Load and clean PDF

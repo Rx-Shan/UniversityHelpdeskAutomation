@@ -12,7 +12,7 @@ from crewai import Agent, Task, Crew
 logging.getLogger("pdfminer").setLevel(logging.ERROR)
 
 # API keys
-os.environ["OPENAI_API_KEY"] = "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"  # Use environment variable or st.secrets
+os.environ["OPENAI_API_KEY"] = "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"  # Use environment variable or st.secrets
 TWILIO_ACCOUNT_SID = 'ACce4a2954135b0af9f6be1b9cb2d097ad'
 TWILIO_AUTH_TOKEN = '3f579afcf08ef1ab69c43f91e44640a0'
 TWILIO_PHONE_NUMBER = '+19514740658'
